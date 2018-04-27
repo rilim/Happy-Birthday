@@ -3,9 +3,9 @@
     <string name="toast_message">\tPabaiga :p \nGražios dienos!:)</string>
     <string name="happy_bd">Su gimtadieniu!</string>
     <string name="from">Nuo manęs</string>
-    <string name="fire_text1">Daug jaukių tau vakarų</string>
-    <string name="fire_text2">bet svarbiausia&#8230;</string>
-    <string name="book_wish">Linkiu kurti savo, kažkiek magišką, laimingo gyvenimo istoriją. Kad kiekvienas gimtadienis būtų dar vienas skyrius šioje gyvenimo knygoje, kai istorija tampa vis įdomesnė ir įdomesnė:)</string>
-    <string name="spring_wish">Gražaus ir spalvoto tau pavasario!:)</string>
+    <string name="fire_text1">fire tekstas 1</string>
+    <string name="fire_text2">fire tekstas2</string>
+    <string name="book_wish">book tekstas</string>
+    <string name="spring_wish">spring tekstas</string>
 
 </resources>
